@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "category": "AI Concepts",
+        "title": "Artificial Intelligence Overview",
+        "content": "Artificial intelligence (AI) is a branch of computer science focused on building smart machines capable of performing tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation."
+    },
+    {
+        "id": 2,
+        "category": "Machine Learning",
+        "title": "Supervised Learning",
+        "content": "Supervised learning is an approach to machine learning where a computer algorithm is trained on input data that has been labeled for a particular output. The model learns to predict outputs for unlabelled data."
+    },
+    {
+        "id": 3,
+        "category": "NLP",
+        "title": "Natural Language Processing",
+        "content": "Natural Language Processing (NLP) is a subfield of computer science and AI concerned with giving computers the ability to understand text and spoken words in much the same way human beings can."
+    }
+]

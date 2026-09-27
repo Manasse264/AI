@@ -1,0 +1,7 @@
+{
+    "model_name": "distilbert-base-cased-distilled-squad",
+    "task": "question-answering",
+    "top_k": 1,
+    "framework": "PyTorch / Transformers",
+    "evaluation_accuracy": "33.33%"
+}
