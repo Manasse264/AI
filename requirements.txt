@@ -3,3 +3,4 @@ torch
 streamlit
 pandas
 scikit-learn
+duckduckgo-search>=6.0.0
